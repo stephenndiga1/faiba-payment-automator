@@ -1,0 +1,34 @@
+[
+  {
+    "state": "Australian Capital Territory",
+    "code": "ACT"
+  },
+  {
+    "state": "New South Wales",
+    "code": "NSW"
+  },
+  {
+    "state": "Northern Territory",
+    "code": "NT"
+  },
+  {
+    "state": "Queensland",
+    "code": "Qld"
+  },
+  {
+    "state": "South Australia",
+    "code": "SA"
+  },
+  {
+    "state": "Victoria",
+    "code": "Vic"
+  },
+  {
+    "state": "Tasmania",
+    "code": "Tas"
+  },
+  {
+    "state": "Western Australia",
+    "code": "WA"
+  }
+]

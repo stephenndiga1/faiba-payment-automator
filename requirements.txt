@@ -1,0 +1,2 @@
+line_tracker.txt - For tracking the progress of the lines processed
+dump.csv - A dump of the cc's to be processed
